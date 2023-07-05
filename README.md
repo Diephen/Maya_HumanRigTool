@@ -16,7 +16,7 @@ The production rig is generated following the [Advanced Rigging Toturial](https:
 - Leg IK: dual control with no-flip (Auto) Knee and pole-vector (Manual) knee 
 - Arm IK: hybrid control with FK anf IK forearm 
 - Foot Control: smart foot roll, tilt, toe spin, toe wiggle, foot tilt
-- Settings for Leg and Arm orient space
+- Settings for Leg and Arm orientation space
 
 
 [TODO]

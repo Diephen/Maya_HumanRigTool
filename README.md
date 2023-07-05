@@ -1,12 +1,12 @@
 # Maya_HumanRigTool
-A automation scrit for rigging in maya
+A automation script for rigging in maya
 
 *Maya version: 2018
 *Python version: 2.7.9
 
 
 This is a WIP maya tool for easier rigging process in Maya. 
-The goal is to set up a production rig with advanced features for better animation contorl, and convert it to a game charater rig with Unreal's character rig convention. 
+The goal is to set up a production rig with advanced features for better animation control, and convert it to a game charater rig with Unreal's character rig convention. 
 
 Productino Rig Features:
 The production rig is generated following the [Advanced Rigging Toturial](https://www.youtube.com/watch?v=MV4XRgmTynY&list=PL8hZ6hQCGHMXKqaX9Og4Ow52jsU_Y5veH&index=1). 
